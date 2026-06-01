@@ -1,12 +1,14 @@
 ---
 name: youtube-script-writer
-description: Writes long-form YouTube video scripts using the Dan Martell structure (3T + 3P Hook + PEIL framework + Asymmetric Pacing). Use this skill whenever the user wants to write a YouTube script, video script for YouTube, long-form video content, or mentions Dan Martell's framework. Triggers on: "напиши скрипт для ютуб", "youtube script", "ютуб відео", "скрипт відео", "write a youtube video", "Dan Martell structure", "PEIL framework", "3P hook", or any request to create long-form educational/coaching video content (8-15+ minutes). Works for any niche — business, coaching, SaaS, marketing, finance, productivity, etc. Also generates Title variants and Thumbnail concepts.
+description: Writes long-form YouTube video scripts IN ENGLISH using the Dan Martell structure (3T + 3P Hook + PEIL framework + Asymmetric Pacing). Use this skill whenever the user wants to write a YouTube script, video script for YouTube, long-form video content, or mentions Dan Martell's framework. Triggers on: "напиши скрипт для ютуб", "youtube script", "ютуб відео", "скрипт відео", "write a youtube video", "Dan Martell structure", "PEIL framework", "3P hook", or any request to create long-form educational/coaching video content (8-15+ minutes). Works for any niche — business, coaching, SaaS, marketing, finance, productivity, etc. Also generates Title variants and Thumbnail concepts. Output is always in English.
 ---
 
 # YouTube Script Writer
 
-Writes high-retention, conversion-optimized YouTube scripts using the Dan Martell framework.
+Writes high-retention, conversion-optimized YouTube scripts **in English** using the Dan Martell framework.
 Outputs: 3-5 Title options, Thumbnail concepts, and a full script with timestamps.
+
+**Language: English only.** All scripts, titles, and thumbnails must be written in English regardless of the input language.
 
 ---
 
